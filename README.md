@@ -37,3 +37,4 @@ GitHub DesktopやSouceTreeなどのGUIツールもありますが、必ずコマ
 ## 以下自己紹介コーナー
 ### M2 Takamiya
 好きな食べ物は寿司と蕎麦です！
+好きな飲物はコーヒーです！！
